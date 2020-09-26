@@ -1,0 +1,2 @@
+# Prototipo-administraci-n-de-becas-
+Prototipo de una página web de administración de becas existente en la universidad Nacional de La Plata. El proyecto fue realizado inicialmente con Axure y luego se le incorporó WAI-ARIA con el fin de que sea accesible para alumnos con bajos recursos, con discapacidades como poca visión, respetando las normas estándar ISO y la W3C durante la materia Diseño de Experiencia del Usuario en 5to año de la carrera.
